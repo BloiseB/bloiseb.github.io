@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 10px 5px;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+.fundo {
+    font-size: 100%;
+    background-color: rgb(0, 0, 0);
+}
+
+.botao {
+    color: white;
+    font-family: "reem kufi" sans-serif;
+    font-size: 20px;
+    user-select: none;
+}
